@@ -1,0 +1,428 @@
+[2022-07-03 20:26:04] [ INFO ] [OdontologoService:88] Se consultaron todods los odontólogos registrados
+[2022-07-03 20:26:22] [ INFO ] [OdontologoService:36] Se registró al odontólogo Morassutti
+[2022-07-03 20:26:39] [ INFO ] [OdontologoService:46] Se encontró al odontólogo Morassutti
+[2022-07-03 20:59:30] [ INFO ] [OdontologoService:36] Se registró al odontólogo Blanco
+[2022-07-03 21:03:01] [ INFO ] [PacienteService:38] Se registró al paciente Blanco
+[2022-07-03 21:41:13] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-03 21:41:19] [ INFO ] [OdontologoService:88] Se consultaron todos los odontólogos registrados
+[2022-07-03 21:41:29] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-03 21:45:24] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-03 21:46:01] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-03 21:46:07] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-03 21:46:27] [ INFO ] [OdontologoService:60] El odontólogo Morassuttifue modificado
+[2022-07-03 21:47:26] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-03 21:47:40] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-03 21:48:36] [ INFO ] [OdontologoService:60] El odontólogo Morassuttifue modificado
+[2022-07-03 21:48:46] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-03 22:17:05] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:17:05] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-03 22:18:24] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:19:20] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:19:20] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-03 22:21:04] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:21:04] [ INFO ] [OdontologoService:60] El odontólogo Torrez fue modificado
+[2022-07-03 22:21:53] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:21:53] [ INFO ] [OdontologoService:60] El odontólogo Torrez fue modificado
+[2022-07-03 22:23:50] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-03 22:24:21] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:24:21] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-03 22:26:11] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:26:11] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-03 22:27:37] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:31:00] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:33:41] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:33:41] [ INFO ] [OdontologoService:71] Se eliminó al odontólogo con id1
+[2022-07-03 22:34:50] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:34:50] [ INFO ] [OdontologoService:71] Se eliminó al odontólogo con id1
+[2022-07-03 22:41:20] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:41:20] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-03 22:41:20] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:41:21] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-03 22:41:21] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:41:21] [ INFO ] [OdontologoService:60] El odontólogo Torrez fue modificado
+[2022-07-03 22:41:21] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:41:21] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-03 22:41:21] [ INFO ] [OdontologoService:71] Se eliminó al odontólogo con id5
+[2022-07-04 15:41:44] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-04 15:42:23] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-04 15:42:47] [ INFO ] [OdontologoService:86] Se consultaron todos los odontólogos registrados
+[2022-07-04 15:42:54] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-04 15:44:02] [ INFO ] [OdontologoService:60] El odontólogo Morassutti fue modificado
+[2022-07-04 15:44:11] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-04 15:59:46] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-04 15:59:53] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-04 16:03:12] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:11:32] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:11:36] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:11:40] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:13:12] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:13:18] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:25:05] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:25:16] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:25:23] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:25:37] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:25:53] [ INFO ] [OdontologoService:87] Se consultaron todos los odontólogos registrados
+[2022-07-04 16:26:20] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Torrez
+[2022-07-04 16:26:57] [ INFO ] [OdontologoService:72] Se eliminó al odontólogo con id1
+[2022-07-04 16:27:25] [ INFO ] [OdontologoService:87] Se consultaron todos los odontólogos registrados
+[2022-07-04 16:58:16] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-04 16:59:13] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Torrez
+[2022-07-04 16:59:43] [ INFO ] [OdontologoService:54] Se modificó al odontólogo Blanco
+[2022-07-04 17:00:16] [ INFO ] [OdontologoService:54] Se modificó al odontólogo Blanco
+[2022-07-05 17:09:34] [ INFO ] [PacienteService:37] Se registró al paciente Torrez
+[2022-07-05 17:59:33] [ INFO ] [PacienteService:42] Se registró al paciente Torrez
+[2022-07-06 18:56:53] [ INFO ] [PacienteService:42] Se registró al paciente Torrez
+[2022-07-06 18:57:16] [ INFO ] [PacienteService:52] Se encontró al paciente Torrez
+[2022-07-06 19:13:13] [ INFO ] [PacienteService:38] Se registró al paciente Torrez
+[2022-07-06 19:13:19] [ INFO ] [OdontologoService:34] Se registró al odontólogo Torrez
+[2022-07-06 19:19:37] [ INFO ] [PacienteService:38] Se registró al paciente Torrez
+[2022-07-06 19:19:44] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-06 19:19:52] [ DEBUG] [GlobalException:21] Error en los datos ingresados
+[2022-07-06 19:20:06] [ DEBUG] [GlobalException:21] Error en los datos ingresados
+[2022-07-06 19:20:53] [ DEBUG] [GlobalException:21] Error en los datos ingresados
+[2022-07-06 19:33:14] [ INFO ] [PacienteService:38] Se registró al paciente Torrez
+[2022-07-06 19:33:17] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-06 19:33:21] [ DEBUG] [GlobalException:15] Tu paciente u odontólogo no existe
+[2022-07-06 19:37:56] [ INFO ] [PacienteService:38] Se registró al paciente Torrez
+[2022-07-06 19:37:58] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-06 19:38:03] [ INFO ] [TurnoService:46] true
+[2022-07-06 19:38:03] [ DEBUG] [GlobalException:15] Tu paciente u odontólogo no existe
+[2022-07-06 19:39:14] [ INFO ] [PacienteService:38] Se registró al paciente Torrez
+[2022-07-06 19:39:16] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-06 19:39:19] [ INFO ] [TurnoService:46] Optional.empty
+[2022-07-06 19:39:19] [ DEBUG] [GlobalException:15] Tu paciente u odontólogo no existe
+[2022-07-06 19:41:13] [ INFO ] [PacienteService:38] Se registró al paciente Torrez
+[2022-07-06 19:41:16] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-06 19:41:19] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-06 19:41:19] [ INFO ] [PacienteService:48] Se encontró al paciente Torrez
+[2022-07-06 19:41:19] [ INFO ] [TurnoService:54] Se registró el turno exitosamente
+[2022-07-06 19:41:30] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-06 19:41:30] [ DEBUG] [GlobalException:15] Tu paciente u odontólogo no existe
+[2022-07-06 19:41:46] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-06 19:41:46] [ INFO ] [PacienteService:48] Se encontró al paciente Torrez
+[2022-07-06 19:41:46] [ INFO ] [TurnoService:54] Se registró el turno exitosamente
+[2022-07-06 21:11:46] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-06 21:11:50] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-06 21:11:54] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-06 21:11:54] [ INFO ] [PacienteService:49] Se encontró al paciente Torrez
+[2022-07-06 21:11:54] [ INFO ] [TurnoService:60] Se registró el turno exitosamente
+[2022-07-06 21:12:27] [ INFO ] [TurnoService:72] Se consultó el turno del paciente Torrez
+[2022-07-06 21:12:53] [ DEBUG] [GlobalException:15] No se encontró el turno consultado
+[2022-07-06 21:24:53] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-06 21:24:56] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-06 21:25:15] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-06 21:25:15] [ INFO ] [PacienteService:49] Se encontró al paciente Torrez
+[2022-07-06 21:25:15] [ INFO ] [TurnoService:60] Se registró el turno exitosamente
+[2022-07-06 21:25:22] [ DEBUG] [GlobalException:15] No se encontró el turno consultado
+[2022-07-06 21:25:26] [ INFO ] [TurnoService:72] Se consultó el turno del paciente Torrez
+[2022-07-06 21:27:24] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-06 21:27:24] [ INFO ] [PacienteService:49] Se encontró al paciente Torrez
+[2022-07-06 21:27:24] [ INFO ] [TurnoService:96] Se modificó el turno exitosamente
+[2022-07-06 21:27:32] [ INFO ] [TurnoService:72] Se consultó el turno del paciente Torrez
+[2022-07-06 21:28:04] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-06 21:28:04] [ INFO ] [PacienteService:49] Se encontró al paciente Torrez
+[2022-07-06 21:28:04] [ INFO ] [TurnoService:96] Se modificó el turno exitosamente
+[2022-07-06 21:28:10] [ INFO ] [TurnoService:72] Se consultó el turno del paciente Torrez
+[2022-07-06 22:27:55] [ INFO ] [PacienteService:37] Se registró al paciente Torrez
+[2022-07-06 22:28:04] [ INFO ] [PacienteService:47] Se encontró al paciente Torrez
+[2022-07-06 22:28:25] [ INFO ] [PacienteService:47] Se encontró al paciente Torrez
+[2022-07-06 22:29:29] [ INFO ] [PacienteService:37] Se registró al paciente Torrez
+[2022-07-06 22:29:38] [ INFO ] [PacienteService:47] Se encontró al paciente Torrez
+[2022-07-06 22:30:11] [ INFO ] [PacienteService:47] Se encontró al paciente Torrez
+[2022-07-06 22:31:20] [ INFO ] [PacienteService:36] Wed Jul 06 22:31:20 ART 2022
+[2022-07-06 22:31:20] [ INFO ] [PacienteService:38] Se registró al paciente Torrez
+[2022-07-06 22:31:28] [ INFO ] [PacienteService:48] Se encontró al paciente Torrez
+[2022-07-06 22:32:43] [ INFO ] [PacienteService:36] Wed Jul 06 22:32:43 ART 2022
+[2022-07-06 22:32:43] [ INFO ] [PacienteService:38] Se registró al paciente Morassutti
+[2022-07-06 22:32:52] [ INFO ] [PacienteService:48] Se encontró al paciente Morassutti
+[2022-07-06 22:34:13] [ INFO ] [PacienteService:38] Wed Jul 06 22:34:12 ART 2022
+[2022-07-06 22:34:13] [ INFO ] [PacienteService:39] Se registró al paciente Morassutti
+[2022-07-06 22:34:38] [ INFO ] [PacienteService:49] Se encontró al paciente Morassutti
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:81] Se consultaron todos los odontólogos registrados
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:54] Se modificó al odontólogo Torrez
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:16:22] [ INFO ] [OdontologoService:66] Se eliminó al odontólogo con id5
+[2022-07-07 13:16:22] [ INFO ] [PacienteService:38] Se registró al paciente Blanco
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:81] Se consultaron todos los odontólogos registrados
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:54] Se modificó al odontólogo Torrez
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:14] [ INFO ] [OdontologoService:66] Se eliminó al odontólogo con id5
+[2022-07-07 13:25:14] [ INFO ] [PacienteService:38] Se registró al paciente Blanco
+[2022-07-07 13:25:47] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:47] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-07 13:25:47] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:48] [ INFO ] [OdontologoService:81] Se consultaron todos los odontólogos registrados
+[2022-07-07 13:25:48] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:48] [ INFO ] [OdontologoService:54] Se modificó al odontólogo Torrez
+[2022-07-07 13:25:48] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:48] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:25:48] [ INFO ] [OdontologoService:66] Se eliminó al odontólogo con id5
+[2022-07-07 13:25:48] [ INFO ] [PacienteService:38] Se registró al paciente Blanco
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:81] Se consultaron todos los odontólogos registrados
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:54] Se modificó al odontólogo Torrez
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 13:26:14] [ INFO ] [OdontologoService:66] Se eliminó al odontólogo con id5
+[2022-07-07 13:26:14] [ INFO ] [PacienteService:38] Se registró al paciente Blanco
+[2022-07-07 16:45:17] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 16:45:17] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Blanco
+[2022-07-07 16:45:17] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 16:45:18] [ INFO ] [OdontologoService:81] Se consultaron todos los odontólogos registrados
+[2022-07-07 16:45:18] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 16:45:18] [ INFO ] [OdontologoService:54] Se modificó al odontólogo Torrez
+[2022-07-07 16:45:18] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 16:45:18] [ INFO ] [OdontologoService:34] Se registró al odontólogo Blanco
+[2022-07-07 16:45:18] [ INFO ] [OdontologoService:66] Se eliminó al odontólogo con id5
+[2022-07-07 16:45:18] [ INFO ] [PacienteService:38] Se registró al paciente Blanco
+[2022-07-07 16:46:45] [ INFO ] [PacienteService:38] Se registró al paciente Morassutti
+[2022-07-07 16:46:51] [ INFO ] [OdontologoService:34] Se registró al odontólogo Morassutti
+[2022-07-07 16:46:57] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-07 16:46:57] [ INFO ] [PacienteService:48] Se encontró al paciente Morassutti
+[2022-07-07 16:46:57] [ INFO ] [TurnoService:122] Se modificó el turno exitosamente
+[2022-07-07 16:47:15] [ INFO ] [OdontologoService:44] Se encontró al odontólogo Morassutti
+[2022-07-07 16:47:15] [ INFO ] [PacienteService:48] Se encontró al paciente Morassutti
+[2022-07-07 16:47:15] [ INFO ] [TurnoService:122] Se modificó el turno exitosamente
+[2022-07-07 16:47:49] [ INFO ] [TurnoService:153] Se consultaron todos los turnos registrados
+[2022-07-07 16:48:14] [ INFO ] [TurnoService:102] Se consultó el turno del paciente Morassutti
+[2022-07-07 16:48:25] [ INFO ] [TurnoService:140] Se eliminó el turno exitosamente
+[2022-07-07 16:48:43] [ INFO ] [TurnoService:153] Se consultaron todos los turnos registrados
+[2022-07-07 17:23:50] [ INFO ] [PacienteService:41] Se registró al paciente Morassutti
+[2022-07-07 17:23:56] [ INFO ] [PacienteService:51] Se encontró al paciente Morassutti
+[2022-07-07 17:25:41] [ INFO ] [PacienteService:68] Se modificó al paciente Blanco
+[2022-07-07 17:25:47] [ INFO ] [PacienteService:51] Se encontró al paciente Blanco
+[2022-07-07 17:26:09] [ DEBUG] [GlobalException:15] No se encontró al paciente que se intenta modificar
+[2022-07-07 17:28:02] [ INFO ] [PacienteService:68] Se modificó al paciente Blanco
+[2022-07-07 17:28:14] [ INFO ] [PacienteService:51] Se encontró al paciente Blanco
+[2022-07-07 17:31:13] [ INFO ] [PacienteService:51] Se encontró al paciente Blanco
+[2022-07-07 17:34:59] [ INFO ] [PacienteService:41] Se registró al paciente Morassutti
+[2022-07-07 17:35:10] [ INFO ] [PacienteService:51] Se encontró al paciente Morassutti
+[2022-07-07 17:35:22] [ INFO ] [PacienteService:83] Se eliminó al paciente con id1
+[2022-07-07 17:40:43] [ DEBUG] [GlobalException:15] No hay pacientes registrados
+[2022-07-07 17:40:51] [ INFO ] [PacienteService:41] Se registró al paciente Morassutti
+[2022-07-07 17:40:57] [ INFO ] [PacienteService:51] Se encontró al paciente Morassutti
+[2022-07-07 17:41:04] [ INFO ] [PacienteService:101] Se consultaron todods los pacientes registrados
+[2022-07-07 17:41:50] [ INFO ] [PacienteService:68] Se modificó al paciente Blanco
+[2022-07-07 17:41:55] [ INFO ] [PacienteService:51] Se encontró al paciente Blanco
+[2022-07-07 17:42:08] [ INFO ] [PacienteService:101] Se consultaron todods los pacientes registrados
+[2022-07-07 17:42:19] [ DEBUG] [GlobalException:15] No se encontró al paciente que se intenta eliminar
+[2022-07-07 17:42:30] [ DEBUG] [GlobalException:15] No se encontró al paciente que se intenta modificar
+[2022-07-07 17:42:40] [ INFO ] [PacienteService:83] Se eliminó al paciente con id1
+[2022-07-07 17:42:45] [ DEBUG] [GlobalException:15] No hay pacientes registrados
+[2022-07-07 17:45:26] [ INFO ] [PacienteService:41] Se registró al paciente Morassutti
+[2022-07-07 17:45:30] [ INFO ] [PacienteService:51] Se encontró al paciente Morassutti
+[2022-07-07 17:45:47] [ DEBUG] [GlobalException:15] El paciente consultado no existe
+[2022-07-07 17:45:55] [ DEBUG] [GlobalException:15] No se encontró al paciente que se intenta modificar
+[2022-07-07 17:46:00] [ INFO ] [PacienteService:70] Se modificó al paciente Blanco
+[2022-07-07 17:46:13] [ INFO ] [PacienteService:51] Se encontró al paciente Blanco
+[2022-07-07 17:46:16] [ INFO ] [PacienteService:103] Se consultaron todods los pacientes registrados
+[2022-07-07 17:46:27] [ INFO ] [PacienteService:85] Se eliminó al paciente con id1
+[2022-07-07 17:46:31] [ DEBUG] [GlobalException:15] El paciente consultado no existe
+[2022-07-07 17:46:35] [ DEBUG] [GlobalException:15] No hay pacientes registrados
+[2022-07-07 18:16:42] [ DEBUG] [GlobalException:21] Los datos ingresados no son válidos
+[2022-07-07 18:19:35] [ INFO ] [PacienteService:43] Se registró al paciente Morassutti
+[2022-07-07 18:19:42] [ INFO ] [PacienteService:90] Se eliminó al paciente con id1
+[2022-07-07 18:19:47] [ DEBUG] [GlobalException:15] El paciente consultado no existe
+[2022-07-07 21:49:37] [ INFO ] [OdontologoService:42] Se registró al odontólogo Morassutti
+[2022-07-07 21:50:12] [ INFO ] [OdontologoService:72] Se modificó al odontólogo Morassutti
+[2022-07-07 21:50:21] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-07 21:50:45] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Morassutti
+[2022-07-07 21:50:50] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-07 21:50:56] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-07 21:51:10] [ INFO ] [OdontologoService:42] Se registró al odontólogo Torrez
+[2022-07-07 21:51:14] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-07 21:51:25] [ DEBUG] [GlobalException:15] No se encontró al odontologo que se intenta eliminar
+[2022-07-07 21:51:31] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id2
+[2022-07-07 21:51:39] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-07 21:51:44] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-07 21:52:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-07 21:52:21] [ INFO ] [PacienteService:52] Se encontró al paciente Torrez
+[2022-07-07 21:52:33] [ DEBUG] [GlobalException:15] El paciente consultado no existe
+[2022-07-07 21:52:48] [ INFO ] [PacienteService:71] Se modificó al paciente Blanco
+[2022-07-07 21:52:54] [ INFO ] [PacienteService:52] Se encontró al paciente Blanco
+[2022-07-07 21:56:48] [ INFO ] [PacienteService:104] Se consultaron todods los pacientes registrados
+[2022-07-07 21:57:05] [ DEBUG] [GlobalException:21] Error en los datos ingresados
+[2022-07-07 21:57:15] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Morassutti
+[2022-07-07 21:57:15] [ INFO ] [PacienteService:52] Se encontró al paciente Blanco
+[2022-07-07 21:57:15] [ INFO ] [TurnoService:62] Se registró el turno exitosamente
+[2022-07-07 21:57:48] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-07 21:57:59] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Morassutti
+[2022-07-07 21:57:59] [ INFO ] [PacienteService:52] Se encontró al paciente Torrez
+[2022-07-07 21:57:59] [ DEBUG] [GlobalException:15] El turno no se puede registrar. El odontológo Morassutti ya tiene un turno esa fecha
+[2022-07-07 21:58:17] [ DEBUG] [GlobalException:21] Error en los datos ingresados
+[2022-07-07 21:58:23] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Morassutti
+[2022-07-07 21:58:23] [ INFO ] [PacienteService:52] Se encontró al paciente Torrez
+[2022-07-07 21:58:23] [ INFO ] [TurnoService:62] Se registró el turno exitosamente
+[2022-07-07 22:35:26] [ INFO ] [OdontologoService:42] Se registró al odontólogo Torrez
+[2022-07-07 22:35:31] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-07 22:35:38] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Torrez
+[2022-07-07 22:37:03] [ INFO ] [OdontologoService:42] Se registró al odontólogo Torrez
+[2022-07-07 22:37:06] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-07 22:37:13] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Torrez
+[2022-07-07 22:37:13] [ INFO ] [PacienteService:52] Se encontró al paciente Torrez
+[2022-07-07 22:37:13] [ INFO ] [TurnoService:62] Se registró el turno exitosamente
+[2022-07-07 22:37:22] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Torrez
+[2022-07-07 22:37:22] [ DEBUG] [GlobalException:15] El paciente consultado no existe
+[2022-07-07 22:38:05] [ INFO ] [PacienteService:39] Se registró al paciente To
+[2022-07-07 22:38:10] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Torrez
+[2022-07-07 22:38:10] [ INFO ] [PacienteService:52] Se encontró al paciente To
+[2022-07-07 22:38:10] [ DEBUG] [GlobalException:15] El turno no se puede registrar. El odontológo Torrez ya tiene un turno esa fecha
+[2022-07-09 08:10:12] [ DEBUG] [GlobalException:15] No se encontró al odontologo que se intenta eliminar
+[2022-07-09 08:10:12] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:10:12] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:10:12] [ DEBUG] [GlobalException:15] No existen registros de odontólogos
+[2022-07-09 08:11:45] [ DEBUG] [GlobalException:15] No se encontró al odontologo que se intenta eliminar
+[2022-07-09 08:11:45] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:11:45] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:11:45] [ DEBUG] [GlobalException:15] No existen registros de odontólogos
+[2022-07-09 08:13:16] [ DEBUG] [GlobalException:15] No se encontró al odontologo que se intenta eliminar
+[2022-07-09 08:13:16] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:13:16] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:13:17] [ DEBUG] [GlobalException:15] No existen registros de odontólogos
+[2022-07-09 08:19:02] [ DEBUG] [GlobalException:15] No se encontró al odontologo que se intenta eliminar
+[2022-07-09 08:19:02] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:19:02] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:19:02] [ DEBUG] [GlobalException:15] No existen registros de odontólogos
+[2022-07-09 08:22:54] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:22:54] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:22:54] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:22:54] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:22:54] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:22:54] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:26:50] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:26:50] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:26:50] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:26:51] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:26:51] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:26:51] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:26:51] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:28:37] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:30:06] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:31:50] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 08:33:31] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:72] Se modificó al odontólogo Torrez
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:36:18] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id1
+[2022-07-09 08:37:27] [ DEBUG] [GlobalException:15] No se encontró al odontologo que se intenta eliminar
+[2022-07-09 08:37:27] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:37:27] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:37:27] [ DEBUG] [GlobalException:15] No existen registros de odontólogos
+[2022-07-09 08:38:53] [ DEBUG] [GlobalException:15] No se encontró al odontologo que se intenta eliminar
+[2022-07-09 08:42:13] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:42:14] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id1
+[2022-07-09 08:42:14] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:42:14] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:42:14] [ DEBUG] [GlobalException:15] No existen registros de odontólogos
+[2022-07-09 08:43:54] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:43:54] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Blanco
+[2022-07-09 08:44:16] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:44:16] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:44:16] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:46:01] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:46:02] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id1
+[2022-07-09 08:46:02] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:46:02] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:46:02] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:46:02] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:46:02] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:46:02] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:46:02] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:46:02] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:47:34] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:47:34] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id1
+[2022-07-09 08:48:33] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 08:48:33] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:104] Se consultaron todods los pacientes registrados
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 08:57:58] [ INFO ] [PacienteService:104] Se consultaron todods los pacientes registrados
+[2022-07-09 08:59:32] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 09:00:45] [ INFO ] [PacienteService:39] Se registró al paciente Blanco
+[2022-07-09 09:00:45] [ INFO ] [PacienteService:86] Se eliminó al paciente con id1
+[2022-07-09 09:01:08] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:01:08] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id1
+[2022-07-09 09:06:54] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:86] Se eliminó al paciente con id1
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:14:59] [ INFO ] [PacienteService:104] Se consultaron todods los pacientes registrados
+[2022-07-09 09:16:58] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:22:53] [ INFO ] [PacienteService:52] Se encontró al paciente Torrez
+[2022-07-09 09:23:21] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:86] Se eliminó al paciente con id1
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:13] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:14] [ INFO ] [PacienteService:104] Se consultaron todods los pacientes registrados
+[2022-07-09 09:24:43] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:86] Se eliminó al paciente con id1
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:24:44] [ INFO ] [PacienteService:104] Se consultaron todods los pacientes registrados
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id1
+[2022-07-09 09:26:17] [ DEBUG] [GlobalException:15] El odontólogo consultado no existe
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:17] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:55] Se encontró al odontólogo Blanco
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:103] Se consultaron todos los odontólogos registrados
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:72] Se modificó al odontólogo Torrez
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:42] Se registró al odontólogo Blanco
+[2022-07-09 09:26:48] [ INFO ] [OdontologoService:86] Se eliminó al odontólogo con id1
+[2022-07-09 09:27:30] [ INFO ] [PacienteService:39] Se registró al paciente Torrez
+[2022-07-09 09:27:57] [ INFO ] [PacienteService:52] Se encontró al paciente Torrez
